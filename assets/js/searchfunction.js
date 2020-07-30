@@ -1,7 +1,7 @@
 $(function() {
     $.ajax({
         type: 'GET',
-        url: "{{site.baseurl}}/assets/js/catalog.json?",
+        url: "/assets/js/catalog.json?",
         dataType: 'json',
         success: function(data) { 
             var catalog = {};
