@@ -3,6 +3,7 @@ backend:
   repo: jdamerow/dh-tech.github.io
   site_domain: youthful-nightingale-053fba.netlify.com
 
+
 publish_mode: editorial_workflow
 
 media_folder: "assets/images/uploads" # Media files will be stored in the repo under images/uploads
