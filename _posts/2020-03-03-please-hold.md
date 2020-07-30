@@ -6,4 +6,4 @@ published: true
 excerpt: The next will be announced soon. Until then, check out the summary of the last webinar!
 ---
 
-The next will be announced soon. Until then, check out the [summary of the last webinar](/workshops/2020-02-27-deploy-packaging/)!
+The next will be announced soon. Until then, check out the <a href="{{site.baseurl}}/workshops/2020-02-27-deploy-packaging/">summary of the last webinar.</a>

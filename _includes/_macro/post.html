@@ -70,7 +70,7 @@
 
             {% if post.tag %}
               <div id="hashtag" style="margin-top: 20px; position: unset; bottom: unset; right: unset">
-                <a href="/blog" onclick="filter('{{ post.tag }}')">#{{ post.tag }}</a>
+                <a href="{{site.baseurl}}/blog" onclick="filter('{{ post.tag }}')">#{{ post.tag }}</a>
               </div>
             {% endif %} 
 

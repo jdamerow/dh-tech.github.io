@@ -5,7 +5,7 @@ excerpt: This white paper aims to draw attention to some of the issues we observ
 ---
 
 <p>
-At the DH 2019 conference, a group of people that identify themselves broadly as Digital Humanities Research Software Engineers came together for a <a href="/dh-workshop-2019">workshop</a>. This white paper is the outcome of this workshop. It aims to draw attention to some of the issues we observe and experience and invite anyone who is interested to join us.
+At the DH 2019 conference, a group of people that identify themselves broadly as Digital Humanities Research Software Engineers came together for a <a href="{{site.baseurl}}/dh-workshop-2019">workshop</a>. This white paper is the outcome of this workshop. It aims to draw attention to some of the issues we observe and experience and invite anyone who is interested to join us.
 </p>
 
 <h3>Who are we?</h3>
@@ -46,7 +46,7 @@ Many (if not most) DH projects depend on the work of RSEs to accomplish their go
 <h3>Community</h3>
 
 <p>
-DH RSEs are not only part of the DH community but also of the wider research software engineering community (RSE 2019). All RSEs face common issues, but DH RSEs are currently not very well represented or vocal within either community. We have already made a start on establishing a group within the Digital Humanities, called DHTech, as a place where ideas can be discussed and where we can learn from each other and our experiences. By coming together and working as a group, we hope to increase the visibility and amplify the voice of DH RSEs in both communities. DHTech offers regular webinars, has a mailing list and a Slack channel. It can be joined <a href="/join">here</a>.
+DH RSEs are not only part of the DH community but also of the wider research software engineering community (RSE 2019). All RSEs face common issues, but DH RSEs are currently not very well represented or vocal within either community. We have already made a start on establishing a group within the Digital Humanities, called DHTech, as a place where ideas can be discussed and where we can learn from each other and our experiences. By coming together and working as a group, we hope to increase the visibility and amplify the voice of DH RSEs in both communities. DHTech offers regular webinars, has a mailing list and a Slack channel. It can be joined <a href="{{site.baseurl}}/join">here</a>.
 </p>
 
 <h3>Authors</h3>
@@ -67,7 +67,7 @@ Robert Casties, Alexander Czmiel, Julia Damerow, Max Ionov, Albert Meroño Peñu
 <b>AG Research Software Engineering in den Digital Humanities (im DHd-Verband)</b>. <i>Home</i> (2019). URL <a href="https://dh-rse.github.io/">https://dh-rse.github.io/</a>
 </p>
 <p class="bib">
-<b>DHTech</b>. <i>About</i> (2019). URL <a href="https://dh-tech.github.io/about/">https://dh-tech.github.io/about/</a>
+<b>DHTech</b>. <i>About</i> (2019). URL <a href="{{site.baseurl}}/about/">About</a>
 </p>
 <p class="bib">
 <b>Holcombe, Alex</b>. <i>Farewell authors, hello contributors.</i> Nature <b>571</b>, 147 (2019). URL <a href="https://www.nature.com/articles/d41586-019-02084-8">https://www.nature.com/articles/d41586-019-02084-8</a>
